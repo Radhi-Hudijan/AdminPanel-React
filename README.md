@@ -41,7 +41,7 @@ a dynamic and responsive admin dashboard built with React, SCSS, and Material UI
 
 ## Deployment
 
-The app is deployed on Netlify. You can access it here:[NoorBooking App](https://noor-booking.netlify.app/)
+The app is deployed on Netlify. You can access it here:[Admit Dashboard App](https://admin-dashboard-interface.netlify.app/)
 
 ## Contributing
 
