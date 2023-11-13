@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# AdminPanel-React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![home page Screenshot](https://i.postimg.cc/d0vW2kk6/Screenshot-2023-11-13-at-3-18-44-PM.png)
+![home page Screenshot](https://i.postimg.cc/2yJch0hL/Screenshot-2023-11-13-at-3-19-29-PM.png)
 
-## Available Scripts
+a dynamic and responsive admin dashboard built with React, SCSS, and Material UI. This project offers a comprehensive admin experience, showcasing various features and functionalities.
 
-In the project directory, you can run:
+## Features
+![home page Screenshot](https://i.postimg.cc/J4fYhdR9/Screenshot-2023-11-13-at-3-19-09-PM.png)
 
-### `npm start`
+- **Dashboard Overview**: Get a quick snapshot of key metrics with featured charts, including user statistics, order details, earnings, and balance summaries.
+- **Detailed Charts**: Dive into detailed insights with additional charts, such as the Last 6 Months Revenue chart, providing a comprehensive view of your financial data.
+- **User Profiles**: Explore user profiles with dedicated pages, allowing you to view and manage individual user details.
+- **Product Management**: Easily add new products or users through user-friendly interfaces tailored for efficient data management.
+- **Transaction History**: Stay updated with the latest transactions through a neatly organized list, providing transaction details at a glance.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+![home page Screenshot](https://i.postimg.cc/YCQnLf9j/Screenshot-2023-11-13-at-3-18-57-PM.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React**: Build powerful and interactive user interfaces with the popular React library.
+- **SCSS**: Style your components with ease using SCSS for enhanced readability and maintainability.
+- **Material UI**: Utilize Material UI components to achieve a clean and cohesive design.
+- **Libraries**: Leverage libraries such as react-circular-progressbar and recharts to enhance the user experience with circular progress bars and interactive charts.
+- **Light and Dark Mode**: Toggle between light and dark modes for a personalized and comfortable viewing experience.
 
-### `npm test`
+## Getting Started
+![home page Screenshot](https://i.postimg.cc/BvgmMS20/Screenshot-2023-11-13-at-3-19-17-PM.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/AdminPanel-React.git
 
-### `npm run build`
+2. Install dependencies :
+   ```
+   cd AdminPanel-React
+   npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. start the application :
+   ```
+   npm run start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Deployment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The app is deployed on Netlify. You can access it here:[NoorBooking App](https://noor-booking.netlify.app/)
 
-### `npm run eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contributions are welcome! If you'd like to contribute to NoorBooking, please follow the steps outlined in the Contributing section of this repository.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact
+For inquiries or feedback, please contact me.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
