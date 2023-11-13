@@ -3,7 +3,7 @@
 ![home page Screenshot](https://i.postimg.cc/d0vW2kk6/Screenshot-2023-11-13-at-3-18-44-PM.png)
 ![home page Screenshot](https://i.postimg.cc/2yJch0hL/Screenshot-2023-11-13-at-3-19-29-PM.png)
 
-a dynamic and responsive admin dashboard built with React, SCSS, and Material UI. This project offers a comprehensive admin experience, showcasing various features and functionalities.
+A dynamic and responsive admin dashboard built with React, SCSS, and Material UI. This project offers a comprehensive admin experience, showcasing various features and functionalities.
 
 ## Features
 ![home page Screenshot](https://i.postimg.cc/J4fYhdR9/Screenshot-2023-11-13-at-3-19-09-PM.png)
